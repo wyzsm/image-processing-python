@@ -1,5 +1,5 @@
 # Senang bisa berkontribusi :D
-
+# geeg
 import cv2
 
 def operation_or(image1, image2):
