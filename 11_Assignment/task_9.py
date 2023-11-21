@@ -1,5 +1,5 @@
 # Senang bisa berkontribusi :D
-# geeg
+
 import cv2
 
 def operation_or(image1, image2):
@@ -27,8 +27,8 @@ def operation_xor(image1, image2):
         return None
 
 
-path_img1 = "./out_file/BinaryImage_TASK_2.jpg"
-path_img2 = "./out_file/grayscaleImage_TASK_2.jpg"
+path_img1 = "./Rafale.jpg"
+path_img2 = "./F16.jpg"
 
 img1 = cv2.imread(path_img1)
 img2 = cv2.imread(path_img2)
